@@ -1,3 +1,1 @@
-build.gradle.kts-এ versionCode বাড়াও
-নতুন app-debug.apk GitHub Pages-এ (jakirweb.github.io/apk/) আপলোড করো
-version.txt-এ সেই নতুন versionCode লিখে আপডেট করো
+1
